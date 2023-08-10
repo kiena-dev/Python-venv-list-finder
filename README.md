@@ -16,3 +16,11 @@ $ cd Python-venv-list-finder
 ```
 $ python3 find_python_env.py
 ```
+* Enter the folder path you want to search for venvs. Press Enter to use the current directory as the default.
+* he script will display a list of venvs along with activation commands.
+
+## Example Output
+![Overview](/images/python_env_list.png)
+
+## Inspiration
+* [Stackoverflow](https://stackoverflow.com/questions/60873454/how-can-i-list-all-the-virtual-environments-created-with-venv)
